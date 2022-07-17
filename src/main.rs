@@ -8,6 +8,7 @@ fn main() {
         .read_line(&mut user_input)
         .expect("Testing str input");
 
+    // Test?
     test(user_input);
 }
 
